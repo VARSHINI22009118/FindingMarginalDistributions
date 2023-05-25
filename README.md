@@ -26,6 +26,7 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 
 
 # Program
+```
 Developed By: VARSHINI S.A
 Register No:212222100059
 
@@ -67,7 +68,7 @@ print("Standard deviation of Y:\t\t",sd_y)
 print("Covariance:\t\t\t\t",Covariance.round(4))
 print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 
-
+```
 
 # OUTPUT :
 ![image](https://github.com/VARSHINI22009118/FindingMarginalDistributions/assets/119401150/abbf1635-8989-4596-b6e5-70e995738404)
